@@ -3,15 +3,16 @@
 ## Table of Contents
 1. [Personal Information](#personal-information)
 2. [Summary](#summary)
-3. [Skills](#skills)
+3. [Languages](#languages)
+4. [References](#references)
+5. [Skills](#skills)
    - [Core Skills](#core-skills)
    - [Additional Skills](#additional-skills)
-4. [Professional Experience](#professional-experience)
-5. [Education](#education)
-6. [Certifications](#certifications)
-7. [Publications](#publications)
-8. [Languages](#languages)
-9. [References](#references)
+6. [Professional Experience](#professional-experience)
+7. [Education](#education)
+8. [Certifications](#certifications)
+9. [Publications](#publications)
+
 
 ## Personal Information
 
@@ -34,6 +35,19 @@ Recent projects include retrieval-augmented generation (RAG) systems and applica
 Equally comfortable working independently or as part of a team,
 with a collaborative and methodical approach to problem-solving.
 AWS-certified and open to expanding expertise into new areas.
+
+---
+
+## Languages
+
+- **English:** B2+ (Upper Intermediate)
+- **Russian:** Native
+
+---
+
+## References
+
+A PDF of the recommendation letter is available via [Google Drive](https://drive.google.com/file/d/1nTD5qhHTs3Jx9bSBXIf5AbdeD0cMl8Dj/view?usp=sharing). Further details, including referee contact information, can be provided upon request as needed.
 
 ---
 
@@ -322,17 +336,3 @@ Worked independently on diverse data science projects, focusing on developing ma
 - **Contribution:** Software development, validation, and manuscript review and editing.  
 - **Published in:** *Radiology Advances*, May 2024.  
 - **DOI:** [10.1093/radadv/umae003](https://doi.org/10.1093/radadv/umae003)
-
----
-
-## Languages
-
-- **English:** B2+ (Upper Intermediate)
-- **Russian:** Native
-
----
-
-## References
-
-A PDF of the recommendation letter is available via [Google Drive](https://drive.google.com/file/d/1nTD5qhHTs3Jx9bSBXIf5AbdeD0cMl8Dj/view?usp=sharing). Further details, including referee contact information, can be provided upon request as needed.
-
