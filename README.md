@@ -1,5 +1,18 @@
 # Machine Learning Engineer | Data Scientist | Python Developer
 
+## Table of Contents
+1. [Personal Information](#personal-information)
+2. [Summary](#summary)
+3. [Skills](#skills)
+   - [Core Skills](#core-skills)
+   - [Additional Skills](#additional-skills)
+4. [Professional Experience](#professional-experience)
+5. [Education](#education)
+6. [Certifications](#certifications)
+7. [Publications](#publications)
+8. [Languages](#languages)
+9. [References](#references)
+
 ## Personal Information
 
 - **Full Name:** Irina Ryndova
