@@ -136,7 +136,7 @@ A PDF of the recommendation letter is available via [Google Drive](https://drive
 - Designed visualizations to present results and analyze model outputs, providing insights into model behavior and debugging processes.  
 - Provided software development support for the project, contributing to the research team’s goal of publishing a peer-reviewed study in *Radiology Advances*.  
 
-### Machine Learning Engineer  
+### Data Scientist 
 **Company Name:** Quantori LLC  
 **Location:** Remote  
 **Dates of Employment:** September 2021 – August 2022  
